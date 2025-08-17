@@ -1,6 +1,6 @@
 
 import type { Meta, StoryObj } from '@storybook/react';
-import { DataTable, Column } from './DataTable.tsx'; // Corrected import to include .tsx extension
+import { DataTable, Column } from './datatable.tsx'; // Corrected import to include .tsx extension
 
 // Sample Data and Columns for the stories.
 interface User {
